@@ -1,5 +1,5 @@
 # dio-dynamodb
-Repositório criado para entrega do projeto Boas práticas com DynamoDB, do Bootcampo Banco PAN Java Developer em parceria com a DIO.me.
+Repositório criado para entrega do projeto Boas práticas com DynamoDB, do Bootcampo da DIO.me Banco PAN Java Developer.
 
 ### Serviços utilizados
   - Amazon DynamoDB
